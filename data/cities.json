@@ -1,76 +1,64 @@
 {
   "cities": [
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "cityName": "Moscow",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-04-27T11:58:58.753Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "55.665193184436035",
+        "lng": "37.63916015625001"
       },
-      "id": 17806751
+      "id": 98443200
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
-      "cityName": "London",
+      "cityName": "High Abbotside",
       "country": "United Kingdom of Great Britain and Northern Ireland (the)",
       "emoji": "🇬🇧",
-      "date": "2024-04-27T08:43:53.478Z",
+      "date": "2024-04-27T12:02:26.305Z",
       "notes": "",
       "position": {
-        "lat": "51.50874245880335",
-        "lng": "-0.13183593750000003"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Dublin",
-      "country": "Ireland",
-      "emoji": "🇮🇪",
-      "date": "2024-04-27T09:10:25.833Z",
-      "notes": "РРРРРРРРРРРРР",
-      "position": {
-        "lat": "53.291489065300226",
-        "lng": "-6.1962890625"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "Kragujevac",
-      "country": "Serbia",
-      "emoji": "🇷🇸",
-      "date": "2024-04-27T09:18:22.451Z",
-      "notes": "",
-      "position": {
-        "lat": "43.866218006556394",
-        "lng": "20.939941406250004"
+        "lat": "54.36775852406841",
+        "lng": "-2.3071289062500004"
       },
       "id": 98443201
     },
     {
-      "cityName": "Bad Mitterndorf",
-      "country": "Austria",
-      "emoji": "🇦🇹",
-      "date": "2024-04-27T09:19:30.049Z",
-      "notes": "qwe",
+      "cityName": "Buren",
+      "country": "Netherlands (Kingdom of the)",
+      "emoji": "🇳🇱",
+      "date": "2024-04-27T12:02:31.215Z",
+      "notes": "dfs",
       "position": {
-        "lat": "47.57652571374621",
-        "lng": "13.952636718750002"
+        "lat": "51.944264879028765",
+        "lng": "5.405273437500001"
       },
       "id": 98443202
+    },
+    {
+      "cityName": "Djebel Messaad",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-04-27T12:02:42.577Z",
+      "notes": "sdfdsf",
+      "position": {
+        "lat": "35.04798673426734",
+        "lng": "4.042968750000001"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-04-27T12:27:10.841Z",
+      "notes": "",
+      "position": {
+        "lat": "48.850258199721495",
+        "lng": "2.3730468750000004"
+      },
+      "id": 98443204
     }
   ]
 }
