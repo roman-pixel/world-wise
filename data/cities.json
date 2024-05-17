@@ -71,6 +71,66 @@
         "lng": "-7.866210937500001"
       },
       "id": 98443205
+    },
+    {
+      "cityName": "Ensenada",
+      "country": "Mexico",
+      "emoji": "🇲🇽",
+      "date": "2024-04-27T13:43:13.616Z",
+      "notes": "",
+      "position": {
+        "lat": "31.240985378021307",
+        "lng": "-115.97167968750001"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Fishing Lake 89",
+      "country": "Canada",
+      "emoji": "🇨🇦",
+      "date": "2024-04-27T13:44:25.274Z",
+      "notes": "",
+      "position": {
+        "lat": "51.83577752045248",
+        "lng": "-103.66699218750001"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Half Moon Bay",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-04-27T13:44:28.435Z",
+      "notes": "",
+      "position": {
+        "lat": "37.31338308990806",
+        "lng": "-122.18444824218751"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Green River",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-04-28T13:42:07.513Z",
+      "notes": "",
+      "position": {
+        "lat": "38.89103282648846",
+        "lng": "-111.00585937500001"
+      },
+      "id": 98443209
+    },
+    {
+      "cityName": "Auckland",
+      "country": "New Zealand",
+      "emoji": "🇳🇿",
+      "date": "2024-05-17T11:40:08.772Z",
+      "notes": "",
+      "position": {
+        "lat": "-36.879620605026766",
+        "lng": "174.737548828125"
+      },
+      "id": 98443210
     }
   ]
 }
